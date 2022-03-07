@@ -5,7 +5,7 @@ Quaternion class contains some oprations on Quaternions.C++ file for the same is
 ## Installation(Python)
 The package is available on Python Package Index(PyPi) and can be installed via:
 
-```pip install quaternion```
+`pip install quaternion`
 
 ## Resources
 More about Quaternions:
